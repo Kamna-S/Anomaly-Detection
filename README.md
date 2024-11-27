@@ -15,6 +15,10 @@
   - Spikes (e.g., sudden high temperature or usage).
   - Dips (e.g., unexpected drops in performance).
 
+## Dataset
+- **Download Link**: [1 GB Synthetic Time-Series Data](https://drive.google.com/drive/folders/1MGhked7rd95ph9AYkFfCgSib-Kk79gMO?usp=sharing)  
+ 
+
 ## Anomaly Detection
 - Apply **Isolation Forest** as the anomaly detection algorithm.
 - Identify irregular patterns that deviate from normal behavior.
@@ -28,3 +32,4 @@
 ## Purpose
 - Evaluate anomaly detection performance on large, realistic datasets.
 - Analyze and interpret anomalies for potential system failure diagnosis.
+
